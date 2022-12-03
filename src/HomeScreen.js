@@ -7,7 +7,7 @@ import Row from './Row';
 
 const HomeScreen = () => {
   return (
-    <div className='homeScreen'>
+    <div className="homeScreen">
         <Nav />
 
         <Banner />
